@@ -58,6 +58,7 @@ export const SKILLS: Skill[] = [
   { name: 'TypeScript', category: 'frontend', icon: 'fa-solid fa-code' },
   { name: 'Node.js', category: 'backend', icon: 'fa-brands fa-node-js' },
   { name: 'Express.js', category: 'backend', icon: 'fa-solid fa-server' },
+  {name : 'Python',  category: 'backend', icon: 'fa fa-python'},
   { name: 'MongoDB', category: 'backend', icon: 'fa-solid fa-database' },
   { name: 'WordPress', category: 'tools', icon: 'fa-brands fa-wordpress' },
   { name: 'UI/UX Design', category: 'frontend', icon: 'fa-solid fa-pen-nib' },
