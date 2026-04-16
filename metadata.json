@@ -1,0 +1,8 @@
+{
+  "name": "Ashok Kompelly Portfolio",
+  "description": "A high-performance, modern portfolio for Ashok Kompelly, featuring a Gemini-powered AI assistant and interactive project showcases.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
