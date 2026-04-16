@@ -2,19 +2,29 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Ashok Kompelly Portfolio
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/817d2c60-4c3a-45c6-bf87-b895af0d1924
+A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+   ```bash
+   npm install
+   ```
+
+2. Run the app:
+   ```bash
+   npm run dev
+   ```
+
+The app will be available at `http://localhost:5173`
+
+## Build for Production
+
+```bash
+npm run build
+```
