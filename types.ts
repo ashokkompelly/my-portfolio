@@ -19,7 +19,7 @@ export interface Experience {
 
 export interface Skill {
   name: string;
-  category: 'frontend' | 'backend' | 'cloud' | 'tools';
+  category: 'frontend' | 'backend' | 'cloud' | 'tools' | 'design' | 'database' | 'cms' | 'seo' | 'versioning' | 'testing';
   icon: string;
 }
 
