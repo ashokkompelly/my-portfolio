@@ -40,10 +40,10 @@ const Hero: React.FC = () => {
             Get in Touch
             <ArrowRight size={20} className="text-blue-500 group-hover:translate-x-1.5 transition-transform" />
           </a>
-          <a href="#" className="flex items-center gap-2 text-slate-400 hover:text-green-500 transition-colors font-bold text-sm md:text-base">
+          {/* <a href="#" className="flex items-center gap-2 text-slate-400 hover:text-green-500 transition-colors font-bold text-sm md:text-base">
             <WhatsAppBrandIcon size={20} />
             WhatsApp
-          </a>
+          </a> */}
         </div>
       </motion.div>
 

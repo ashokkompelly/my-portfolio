@@ -50,7 +50,7 @@ const Navbar: React.FC = () => {
             className="text-xl md:text-2xl font-display font-black text-white flex items-center gap-3"
           >
             <span className="w-8 h-8 md:w-10 md:h-10 bg-blue-600 rounded-lg md:rounded-xl flex items-center justify-center text-[10px] md:text-xs shadow-lg shadow-blue-600/30">AK</span>
-            <span className="tracking-tighter">Ashok.</span>
+            <span className="tracking-tighter">Ashok Kompelly</span>
           </a>
 
           {/* Desktop Nav */}

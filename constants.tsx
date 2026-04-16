@@ -16,7 +16,7 @@ export const PROJECTS: Project[] = [
     description:
       "A professional WordPress-based corporate site for an IT services company, optimized for performance and SEO.",
     tags: ["WordPress", "PHP", "SEO", "Web Design"],
-    imageUrl: "https://ashokkompelly.com/assets/images/portfolio4.jpg",
+    imageUrl: "https://ashokkompelly.com/assets/images/portfolio2.jpg",
     link: "https://mepstrait.com/",
   },
   {
@@ -25,7 +25,7 @@ export const PROJECTS: Project[] = [
     description:
       "A high-end company website for WASP Group, focusing on clean aesthetics and interactive user interface.",
     tags: ["WordPress", "PHP", "UI/UX Design", "Corporate Website"],
-    imageUrl: "https://ashokkompelly.com/assets/images/portfolio4.jpg",
+    imageUrl: "https://ashokkompelly.com/assets/images/portfolio3.jpg",
     link: "https://wasp-pfs.com/",
   },
   {

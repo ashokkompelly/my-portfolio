@@ -67,10 +67,9 @@ const About: React.FC = () => {
                  Find Me On
                </h3>
                 <div className="flex justify-between items-center px-2">
-                  <a href="#" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><Github size={20} /></a>
-                  <a href="#" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><Linkedin size={20} /></a>
-                  <a href="#" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><Twitter size={20} /></a>
-                  <a href="#" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><WhatsAppBrandIcon size={20} /></a>
+                  <a href="https://github.com/ashokkompelly" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><Github size={20} /></a>
+                  <a href="https://linkedin.com/in/ashokkompelly" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><Linkedin size={20} /></a>
+                  <a href="https://wa.me/917799324999" className="w-12 h-12 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 transition-colors"><WhatsAppBrandIcon size={20} /></a>
                 </div>
             </motion.div>
           </div>

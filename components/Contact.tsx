@@ -26,16 +26,16 @@ const Contact: React.FC = () => {
                 <p className="text-[10px] md:text-[11px] uppercase tracking-[0.3em] font-black text-slate-600 mb-3">Direct Communication</p>
                 <a href="mailto:hello@ashokkompelly.com" className="text-xl md:text-2xl font-display font-bold text-white group-hover:text-blue-500 transition-colors flex items-center gap-3">
                   <Mail size={24} className="text-blue-500" />
-                  hello@ashokkompelly.com
+                  ashokkompelly9@gmail.com
                 </a>
               </div>
               <div>
                 <p className="text-[10px] md:text-[11px] uppercase tracking-[0.3em] font-black text-slate-600 mb-4">Digital Presence</p>
                 <div className="flex gap-4 md:gap-5">
-                  <a href="#" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><Linkedin size={22} /></a>
-                  <a href="#" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><Github size={22} /></a>
-                  <a href="#" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><WhatsAppBrandIcon size={22} /></a>
-                  <a href="#" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><Phone size={22} /></a>
+                  <a href="https://linkedin.com/in/ashokkompelly" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><Linkedin size={22} /></a>
+                  <a href="https://github.com/ashokkompelly" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><Github size={22} /></a>
+                  <a href="https://wa.me/917799324999" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><WhatsAppBrandIcon size={22} /></a>
+                  <a href="tel:+917799324999" className="w-12 h-12 md:w-14 md:h-14 bento-card flex items-center justify-center text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all"><Phone size={22} /></a>
                 </div>
               </div>
             </div>
