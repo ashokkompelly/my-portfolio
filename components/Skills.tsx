@@ -28,7 +28,7 @@ const Skills: React.FC = () => {
   return (
     <section
       id="skills"
-      className="py-20 md:py-32 px-6 border-y border-blue-500/5 bg-[#0a101f] scroll-mt-24"
+      className="relative py-20 md:py-32 px-6 border-y border-blue-500/5 bg-[#0a101f] scroll-mt-24"
     >
       <div className="container mx-auto max-w-6xl">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end gap-8 md:gap-10 mb-12 md:mb-20">

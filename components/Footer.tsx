@@ -26,7 +26,6 @@ const Footer: React.FC = () => {
           <a href="#about" className="text-slate-600 hover:text-blue-500 text-[9px] md:text-[10px] uppercase tracking-widest font-bold transition-colors">About</a>
           <a href="#projects" className="text-slate-600 hover:text-blue-500 text-[9px] md:text-[10px] uppercase tracking-widest font-bold transition-colors">Projects</a>
           <a href="#contact" className="text-slate-600 hover:text-blue-500 text-[9px] md:text-[10px] uppercase tracking-widest font-bold transition-colors">Contact</a>
-          <a href="#" className="text-slate-600 hover:text-blue-500 transition-colors"><WhatsAppBrandIcon size={16} /></a>
         </motion.div>
       </div>
     </footer>
