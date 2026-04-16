@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
         </h1>
         
         <p className="text-slate-400 text-base md:text-2xl mb-10 md:mb-14 max-w-3xl mx-auto leading-relaxed font-medium px-4 md:px-0">
-          I'm Ashok Kompelly, a Fullstack Developer & Team Lead with 9+ years of experience and 100+ projects delivered.
+          I'm Ashok Kompelly, a Fullstack Developer & Team Lead with 10+ years of experience and 100+ projects delivered.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 md:gap-8">

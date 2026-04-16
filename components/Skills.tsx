@@ -24,7 +24,6 @@ const iconMap: Record<string, React.ReactNode> = {
   'React.js': <Layers size={24} />,
   'JavaScript': <Code2 size={24} />,
   'TypeScript': <Cpu size={24} />,
-  'Tailwind CSS': <Palette size={24} />,
   'Node.js': <Terminal size={24} />,
   'Express.js': <Server size={24} />,
   'MongoDB': <Database size={24} />,

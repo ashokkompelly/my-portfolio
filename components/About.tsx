@@ -51,7 +51,7 @@ const About: React.FC = () => {
               transition={{ delay: 0.1 }}
               className="bento-card p-8 bg-blue-500/5 flex flex-col items-center justify-center text-center"
             >
-              <span className="text-5xl md:text-6xl font-display font-bold text-blue-500 mb-2">9+</span>
+              <span className="text-5xl md:text-6xl font-display font-bold text-blue-500 mb-2">10+</span>
               <p className="text-slate-400 uppercase tracking-widest font-extrabold text-[10px] md:text-[11px]">Years in Industry</p>
             </motion.div>
             
